@@ -32,4 +32,4 @@
 
 ![time taken](https://img.shields.io/badge/Project-07-green) ![time taken](https://img.shields.io/badge/VSCode%20Clone-HTML%20%26%20CSS-orange)
 
-![VS Code clone screenshot](Output.png)
+![vscode-img](https://user-images.githubusercontent.com/112545072/210177784-2db31f2b-a027-4acd-8c70-dfcdc98ee7c9.png)
